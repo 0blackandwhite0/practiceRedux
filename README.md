@@ -1,2 +1,2 @@
 # practiceRedux
-一个小练习
+一个redux的小练习
