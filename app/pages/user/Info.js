@@ -4,7 +4,7 @@ import MyHeader from "../../components/MyHeader";
 import Moment from 'moment';
 
 
-let time = new Date('Thu Feb 15 2018 00:00:00 GMT+0800 (中国标准时间)').getTime();
+let time = new Date('Thu Feb 4 2019 00:00:00 GMT+0800 (中国标准时间)').getTime();
 
 class Info extends Component {
 
